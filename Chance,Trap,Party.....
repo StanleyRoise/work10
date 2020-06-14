@@ -1,0 +1,23 @@
+public class Chance {
+}
+
+
+public class Invest {
+}
+
+
+public class PartyHard {
+}
+
+
+public class Player {
+
+    private String name;
+}
+
+public class Steal {
+}
+
+public class Trap {
+}
+
