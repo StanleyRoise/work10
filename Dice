@@ -1,0 +1,9 @@
+public class Dice {
+    public static int rollDice(int number, int nSteni) {
+        int count = 0;
+        for(int i = 0; i < number; i++) {
+            count += (int)(Math.random() * nSteni) + 1;
+        }
+        return count;
+    }
+}
